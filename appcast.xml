@@ -9,7 +9,7 @@
             <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>0.9.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Tha-vivid-one/prose-releases/releases/download/v0.9.6/Prose-0.9.6.dmg" sparkle:edSignature="UvpoWpN46Dwi7f8p1Qkl68tIfg/Zv7vQF997wPF0pqN7rN/o8K3oJFR3C8tIBG0tbjEX9rlZxBhfwwXXoJZgBw==" length="24217381" type="application/octet-stream"/>
+            <enclosure url="https://github.com/Tha-vivid-one/prose-releases/releases/download/v0.9.6/Prose-0.9.6.dmg" sparkle:edSignature="0d0wTMfXYTHokP9yMUSK0TBO2XZ70M/1gA7ellLZ6Srgo8GXutpFfjeGG0adE42ZbHrH1eNaaxoYHG/iDgaQCg==" length="23953051" type="application/octet-stream"/>
         </item>
         <item>
             <title>Prose 0.9.5</title>
