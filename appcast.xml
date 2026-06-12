@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Prose Updates</title>
+        <language>en</language>
+        <item>
+            <title>Prose 1.1</title>
+            <pubDate>Fri, 12 Jun 2026 07:57:55 -0600</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Tha-vivid-one/prose-releases/releases/download/v1.1/Prose-1.1.dmg" sparkle:edSignature="RXKnaak7vE7ShspjojX/V/r2YIHXNxQINPYkOPnbkua2kZmzKLt56mH4Qicy5zOvDo9HGH1lJwPxFvq4N78BAg==" length="25168787" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
