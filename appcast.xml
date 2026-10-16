@@ -4,6 +4,14 @@
         <title>Prose Updates</title>
         <language>en</language>
         <item>
+            <title>Prose 0.13.2</title>
+            <pubDate>Fri, 16 Oct 2026 16:44:47 -0600</pubDate>
+            <sparkle:version>39</sparkle:version>
+            <sparkle:shortVersionString>0.13.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Tha-vivid-one/prose-releases/releases/download/v0.13.2/Prose-0.13.2.dmg" sparkle:edSignature="EQgPezZ5jb+HXB0bXAVFiTM1U9OWoRC6Yx9CS3i1Kn80C99LoTmZs/apeIMdVvzchik6xyA9xJg8MPlrMC3DDg==" length="35893868" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Prose 0.13.1</title>
             <pubDate>Fri, 16 Oct 2026 15:03:18 -0600</pubDate>
             <sparkle:version>38</sparkle:version>
